@@ -88,3 +88,12 @@ a:hover {
 	color: honeydew;
 	padding: 8px 30px;
 }
+
+.a-link {
+	color: honeydew;
+	font-size: 14px;
+}
+.a-link:hover {
+	text-decoration: none;
+	color: honeydew;
+}
